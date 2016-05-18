@@ -3,9 +3,9 @@ Create JSON file, from CSV with basic funcionality and custom delimiters (runnab
 
 # Run:
 Download the csv2json.jar compiled file.
-Open terminal or cmd, navigate to the csv2json.jar and use the following command: java -jar <jar-file-name>.jar <arguments>
+Open terminal or cmd, navigate to the csv2json.jar and use the following command: java -jar \<filename>.jar <arguments>
 
-Using: help|about|<arg1: input.csv file> <arg2: output.json file> <arg3: [p|w|pw] flags> <arg4: [a-zA-Z\d\W]* delimiter(s)>
+Using: help|about|\<arg1: input.csv file> \<arg2: output.json file> \<arg3: [p|w|pw] flags> \<arg4: [a-zA-Z\d\W]* delimiter(s)>
 
 Example: file.csv file.json pw ;
 
