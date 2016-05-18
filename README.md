@@ -10,7 +10,9 @@ Using: help|about|\<arg1: input.csv file> \<arg2: output.json file> \<arg3: [p|w
 Example: file.csv file.json pw ;
 
 p: just print output
+
 w: just write output
+
 pw: print and write output
 
 # Modify:
