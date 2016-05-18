@@ -74,7 +74,7 @@ public class Main {
 			}
 			catch (IOException e) 
 			{
-				System.out.println("File read / rrite error!");
+				System.out.println("File read / write error!");
 				
 			}
 		}
